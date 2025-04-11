@@ -47,6 +47,8 @@ app/
 - Reduces machinery downtime by up to 40%
 - Enables predictive maintenance in industrial settings
 
+## Screenshots
+-[Web App Screenshot](image/Screenshot 2025-04-11 004141.png)
 ---
 
 **Author:** Salal — M.S. Data Science, University of Houston-Victoria
